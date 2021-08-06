@@ -1,5 +1,4 @@
 # BOT-VISIT
-###Usage:
 
 python -m pip install -r requirements.txt
 apt install nano
@@ -12,3 +11,5 @@ pkg install update && upgrade
 pkg install python
 pkg install pip
 python m- pip install install -r requirements.txt
+
+###Usage:
