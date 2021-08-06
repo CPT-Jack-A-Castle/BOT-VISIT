@@ -1,6 +1,5 @@
 # BOT-VISIT
-###USAGE
-
+###Usage:
 
 python -m pip install -r requirements.txt
 apt install nano
